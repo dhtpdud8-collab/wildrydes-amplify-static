@@ -1,8 +1,8 @@
 <<<<<<< HEAD
 window._config = {
     cognito: {
-        userPoolId: 'eu-west-1_15nDMvr2K', // e.g. us-east-2_uXboG5pAb
-        userPoolClientId: '7qjniknkfqefdlmrmvr0m7cu0e', // e.g. 25ddkmj4v6hfsfvruhpfi7n4hv
+        userPoolId: 'ap-northeast-2_YfbqJzlJ8', // e.g. us-east-2_uXboG5pAb
+        userPoolClientId: '13lndjql71c3g946r7glfgqhbq', // e.g. 25ddkmj4v6hfsfvruhpfi7n4hv
         region: 'eu-west-1' // e.g. us-east-2
     },
     api: {
@@ -12,8 +12,8 @@ window._config = {
 =======
 window._config = {
     cognito: {
-        userPoolId: 'ap-northeast-2_7AqU4t9Dp', // 예: 'ap-northeast-2_aBcDeFgHi'
-        userPoolClientId: '3crjl5pn8dvemsr1i395p2utmk', // 예: '5mrp1qufpm0d9ivq27j8bi7c5c'
+        userPoolId: 'ap-northeast-2_YfbqJzlJ8', // 예: 'ap-northeast-2_aBcDeFgHi'
+        userPoolClientId: '13lndjql71c3g946r7glfgqhbq', // 예: '5mrp1qufpm0d9ivq27j8bi7c5c'
         region: 'ap-northeast-2' // 예: 'ap-northeast-2'
     },
     api: {
